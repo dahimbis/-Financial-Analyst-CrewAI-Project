@@ -1,4 +1,4 @@
-# Financial Analyst CrewAI Project
+# Financial Analyst CrewAI Project - Morgan Stanley
 
 **Description:**  
 AI-powered **Financial Analyst workflow** using **CrewAI, GPT-4o, and Serper API** to automate company research and generate one-page analyst briefs.  
@@ -8,7 +8,7 @@ AI-powered **Financial Analyst workflow** using **CrewAI, GPT-4o, and Serper API
 ## 🔹 Project Summary
 This project demonstrates how to apply **agentic AI to financial analysis**, automating the research and reporting process for financial firms. In this case, I focused on Morgan Stanley.
 
-The workflow is designed to simulate the work of a **junior financial analyst**, delivering concise, professional reports that highlight company performance, opportunities, and market outlook — exactly the kind of deliverables recruiters and consulting managers expect to see.  
+The workflow is designed to simulate the work of a **junior financial analyst**, delivering concise, professional reports that highlight company performance, opportunities, and market outlook; exactly the kind of deliverables recruiters and consulting managers expect to see.  
 
 The system uses two agents:
 - **Researcher Agent** → Collects structured insights (financial health, services, risks, opportunities, outlook).  
