@@ -12,7 +12,11 @@ The workflow is designed to simulate the work of a **junior financial analyst**,
 
 The system uses two agents:
 - **Researcher Agent** → Collects structured insights (financial health, services, risks, opportunities, outlook).  
-- **Analyst Agent** → Transforms insights into a **polished one-page financial analyst brief** with executive summary, analysis, and conclusions.  
+- **Analyst Agent** → Transforms insights into a **polished one-page financial analyst brief** with executive summary, analysis, and conclusions.
+  
+The system also uses two tasks
+- **Research Task** → Conducts structured research on {company}, gathering insights on financial health, historical performance, key services, risks, opportunities, and future outlook. Produces an organized research brief with clear sections.  
+- **Analysis Task** → Reviews the research brief and creates a **polished one-page Financial Analyst Report**. Includes an executive summary, financial highlights, service strengths, market opportunities, and a forward-looking conclusion.  
 
 ---
 
@@ -59,6 +63,7 @@ This makes the final financial analyst brief more accurate, up-to-date, and rele
 
 ### 📝 Key Difference
 - **Offline Mode** → General analyst report based on stored knowledge.  
-- **Online Mode** → Live data integration, producing **recruiter-ready reports with current financials, news, and trends (2025)**.  
+- **Online Mode** → Live data integration, producing **reports with current financials, news, and trends (2025)**.
+
 
 
