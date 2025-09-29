@@ -25,5 +25,40 @@ The system uses two agents:
 
 ---
 
+## 📊 Example Outputs
+
+This project can run in two modes:  
+
+### 1. Without Serper API (Offline Mode)
+When the crew runs without internet access, the **Researcher Agent** relies only on the model’s built-in knowledge.  
+The generated report still follows the correct structure but is based on general knowledge up to the model’s cutoff.  
+
+**Example Screenshots:**  
+![Initial Stage](Initital_stage.png)  
+![Offline Report](Final_Report1.png)  
+
+---
+
+### 2. With Serper API (Online Mode)
+When `SERPER_API_KEY` is provided, the **Researcher Agent** uses **live search** to pull the most recent company information.  
+This makes the final financial analyst brief more accurate, up-to-date, and relevant for 2025.  
+
+**Execution Flow:**  
+- Research agent queries live data sources  
+- Findings are structured into insights  
+- Analyst agent turns insights into a professional one-page report  
+
+**Example Screenshots:**  
+![Research Phase](Result1.png)  
+![Search Queries](Result2_2.png)  
+![Retrieved Data](Result2_3.png)  
+![Analysis Phase](Result2_4.png)  
+![Final Report](Result2_5.png)  
+
+---
+
+### 📝 Key Difference
+- **Offline Mode** → General analyst report based on stored knowledge.  
+- **Online Mode** → Live data integration, producing **recruiter-ready reports with current financials, news, and trends (2025)**.  
 
 
