@@ -34,8 +34,8 @@ When the crew runs without internet access, the **Researcher Agent** relies only
 The generated report still follows the correct structure but is based on general knowledge up to the model’s cutoff.  
 
 **Example Screenshots:**  
-![Initial Stage](Initital_stage.png)  
-![Offline Report](Final_Report1.png)  
+![Initial Stage](Initital%20stage.png)  
+![Offline Report](Final%20Report1.png)  
 
 ---
 
