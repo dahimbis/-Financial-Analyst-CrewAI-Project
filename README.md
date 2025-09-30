@@ -65,5 +65,6 @@ This makes the final financial analyst brief more accurate, up-to-date, and rele
 - **Offline Mode** → General analyst report based on stored knowledge.  
 - **Online Mode** → Live data integration, producing **reports with current financials, news, and trends (2025)**.
 
+The details in the report may not be accurate. I am trying to improve the program so that it can be updated with accurate information.
 
 
